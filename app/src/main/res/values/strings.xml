@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lap2Explicit</string>
+    <string name="main">Show Main</string>
+    <string name="visit">Visit Taruc</string>
+    <string name="dial">Show Dial</string>
+    <string name="sendTo">Show SendTo</string>
+</resources>
